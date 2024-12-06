@@ -1,18 +1,18 @@
-# Nome do projeto
+# O Potencial da Realidade Virtual na Melhoria Comportamental e Cognitiva de Autistas
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
-
+Este estudo propõe a utilização da realidade virtual (RV) como uma ferramenta
+inovadora para o aprimoramento das habilidades sociais e cognitivas de indivíduos com
+Transtorno do Espectro Autista (TEA). A pesquisa visa integrar tecnologias imersivas
+com um modelo terapêutico supervisionado, proporcionando um ambiente controlado e
+adaptável para diagnóstico, reabilitação e desenvolvimento social.
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Douglas Nicolas Silva Gomes
+* Victor Souza Lima
 
 ## Professores responsáveis
 
-* Nome do professor 1
-* Nome do professor 2
-* Nome do professor 3
-* Nome do professor 3
+* Felipe de Castro Belém
 
 ## Instruções de Replicação/Reprodução
 
