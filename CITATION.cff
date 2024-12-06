@@ -1,31 +1,21 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: O Potencial da Realidade Virtual na Melhoria Comportamental e Cognitiva de Autistas
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Silva Gomes
+    given-names: Douglas Nicolas
+  - family-names: Souza Lima
+    given-names: Victor  
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: de Castro Belém
+    given-names: Felipe
 keywords:
-  - 
-  - 
-repository-code: 
+  - Realidade Virtual
+  - RV
+  - TEA
+  - Autismo
+repository-code: https://github.com/ICEI-PUC-Minas-PMGCC-TI/2024-2_TI3_Douglas-Victor
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2024-12-05
